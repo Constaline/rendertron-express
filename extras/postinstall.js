@@ -1,0 +1,1 @@
+require('./rendertron/copy_files');

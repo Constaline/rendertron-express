@@ -1,0 +1,7 @@
+{
+    "cache": "filesystem",
+    "cacheConfig": {
+        "cacheDurationMinutes": 120,
+        "cacheMaxEntries": 50
+    }
+}
